@@ -1,1 +1,2 @@
-repo for study in otus
+repo for study in otus.
+Student: **Artem Mustafaev**
