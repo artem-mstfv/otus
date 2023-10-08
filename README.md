@@ -1,1 +1,1 @@
-# otus
+repo for study in otus
